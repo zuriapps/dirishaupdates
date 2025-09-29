@@ -7,23 +7,26 @@
         <language>en</language>
 
         <item>
-            <title>Version 1.0</title>
+            <title>Version 1.0.0</title>
             <description><![CDATA[
-                <h2>What's New in Version 1.0</h2>
+                <h2>What's New in Version 1.0.0</h2>
                 <ul>
                     <li>Initial release of Dirisha</li>
-                    <li>Core window management features</li>
-                    <li>System integration and shortcuts</li>
+                    <li>Complete window management system</li>
+                    <li>Menu bar integration</li>
+                    <li>iCloud sync support</li>
+                    <li>Sparkle auto-updates integration</li>
+                    <li>Keyboard shortcuts support</li>
                 </ul>
             ]]></description>
-            <pubDate>Sun, 29 Sep 2024 12:00:00 +0000</pubDate>
+            <pubDate>Sun, 29 Sep 2025 16:35:00 +0000</pubDate>
             <enclosure
-                url="https://github.com/zuriapps/dirishaupdates/releases/download/v1.0/Dirisha.zip"
-                sparkle:version="1"
-                sparkle:shortVersionString="1.0"
-                length="0"
+                url="https://github.com/zuriapps/dirishaupdates/releases/download/v1.0.0/Dirisha-1.0.0.zip"
+                sparkle:version="1.0.0"
+                sparkle:shortVersionString="1.0.0"
+                length="8049181"
                 type="application/octet-stream"
-                sparkle:edSignature="" />
+                sparkle:edSignature="W1UJDVu+nqHrzcZaA0Ba9D9E0upycv1wlUcDKeSSpMTvUMNKk67pCR1vkyfm70kE0kpu5fi3z8XJft87THbFAw==" />
         </item>
     </channel>
 </rss>
