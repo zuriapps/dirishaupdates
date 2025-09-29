@@ -6,19 +6,19 @@
     <description>Updates for Dirisha</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.3</title>
-      <pubDate>Mon, 29 Sep 2025 16:30:27 +0000</pubDate>
-      <sparkle:version>1.0.3</sparkle:version>
-      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-      <enclosure url="https://github.com/zuriapps/dirishaupdates/releases/download/v1.0.3/Dirisha-1.0.3.zip"
-                 sparkle:edSignature="/E6bv9iLfJXG2rxCSPEHsp5mijWu94uPQ3e74Ak/nSNOi2EO0fzoBecdL6N+LeoF/m42jWazUJ3HyJUBihErBA=="
-                 length="8052783"
+      <title>Version 1.0.4</title>
+      <pubDate>Mon, 29 Sep 2025 17:19:08 +0000</pubDate>
+      <sparkle:version>1.0.4</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <enclosure url="https://github.com/zuriapps/dirishaupdates/releases/download/v1.0.4/Dirisha-1.0.4.zip"
+                 sparkle:edSignature="mtMF+4ud4HaMR7EXxYk4Up15mKxnKFOIFu4O+w+bPa5E/y6amvXJqzEmYfiX57NFPB7Wi4NRHMgW0AGj2AgKAQ=="
+                 length="8053447"
                  type="application/octet-stream"/>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h3>What's New in Version 1.0.3</h3>
+        <h3>What's New in Version 1.0.4</h3>
         <ul>
-          <li>UI enhancements</li>
+          <li>Multi-monitor detection improvements</li>
         </ul>
       ]]></description>
     </item>
