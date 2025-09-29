@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <channel>
-        <title>Dirisha Updates</title>
-        <link>https://zuriapps.github.io/dirishaupdates/</link>
-        <description>Updates for Dirisha app</description>
-        <language>en</language>
-
-        <item>
-            <title>Version 1.0.1</title>
-            <description><![CDATA[
-                <h2>What's New in Version 1.0.1</h2>
-                <ul>
-                    <li>Bug fixes and improvements</li>
-                    <li>Enhanced stability</li>
-                    <li>Performance optimizations</li>
-                </ul>
-            ]]></description>
-            <pubDate>Sun, 29 Sep 2025 17:30:00 +0000</pubDate>
-            <enclosure
-                url="https://github.com/zuriapps/dirishaupdates/releases/download/v1.0.0/Dirisha-1.0.0.zip"
-                sparkle:version="1.0.1"
-                sparkle:shortVersionString="1.0.1"
-                length="8049181"
-                type="application/octet-stream"
-                sparkle:edSignature="RP0c5c/wazzi4kjtKfhPbby2ClgQxWMBhluIiS2FJsuZ6efmVc2WQnmKDt12KOerYdAixODMtUCYxEhxZgUaCA==" />
-        </item>
-    </channel>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Dirisha Updates</title>
+    <link>https://zuriapps.github.io/dirishaupdates/appcast.xml</link>
+    <description>Updates for Dirisha</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.2</title>
+      <pubDate>Sun, 29 Sep 2024 19:00:00 +0000</pubDate>
+      <sparkle:version>1.0.2</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <enclosure url="https://github.com/zuriapps/dirishaupdates/releases/download/v1.0.2/Dirisha-1.0.2.zip"
+                 sparkle:edSignature="SrPQVihKiehoJ2WK9oi4FyFiMHHcCBRJlNp0nNSV16tK5gjU3AfNvffS2LsOF3D8B0IrNb3TW/c4LuS4TusQBg=="
+                 length="8051410"
+                 type="application/octet-stream"/>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>What's New in Version 1.0.2</h3>
+        <ul>
+          <li>Fixed Sparkle update system with correct EdDSA signature verification</li>
+          <li>Resolved "Unable to Check For Updates" error</li>
+          <li>Both Settings button and menu item now work correctly</li>
+          <li>Improved update mechanism reliability</li>
+        </ul>
+      ]]></description>
+    </item>
+  </channel>
 </rss>
