@@ -22,5 +22,25 @@
         </ul>
       ]]></description>
     </item>
+    <item>
+      <title>Version 1.0.2</title>
+      <pubDate>Sun, 29 Sep 2024 19:00:00 +0000</pubDate>
+      <sparkle:version>1.0.2</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <enclosure url="https://github.com/zuriapps/dirishaupdates/releases/download/v1.0.2/Dirisha-1.0.2.zip"
+                 sparkle:edSignature="FCdOk8D9nX4SytSZ+hvgehxVL35f+wR/KqORNgsqqOtwmmLdMJ/Z+XkRtU16lUvK50h1VXsMNHrlkRKgtFRBAQ=="
+                 length="8052145"
+                 type="application/octet-stream"/>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>What's New in Version 1.0.2</h3>
+        <ul>
+          <li>Fixed Sparkle update system with correct EdDSA signature verification</li>
+          <li>Resolved "Unable to Check For Updates" error</li>
+          <li>Both Settings button and menu item now work correctly</li>
+          <li>Improved update mechanism reliability</li>
+        </ul>
+      ]]></description>
+    </item>
   </channel>
 </rss>
