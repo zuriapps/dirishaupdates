@@ -6,6 +6,23 @@
     <description>Updates for Dirisha</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.5</title>
+      <pubDate>Mon, 07 Oct 2025 19:30:00 +0000</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
+      <enclosure url="https://github.com/zuriapps/dirishaupdates/releases/download/v1.1.5/Dirisha-1.1.5.zip"
+                 sparkle:edSignature="OWBhksxnMSjkDLpQ6UIt9q4DUUiP/fBr+eyruIJafg1Rz5Fq/h7e+u8LMgN3v7PzL3q73gqoxn0lp1Lk7YI4AQ=="
+                 length="5019222"
+                 type="application/octet-stream"/>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>What's New in Version 1.1.5</h3>
+        <ul>
+          <li>UI improvements</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 1.1.4</title>
       <pubDate>Mon, 07 Oct 2025 14:30:00 +0000</pubDate>
       <sparkle:version>14</sparkle:version>
