@@ -6,17 +6,17 @@
     <description>Updates for Dirisha</description>
     <language>en</language>
     <item>
-      <title>Version 1.2.1</title>
-      <pubDate>Wed, 25 Mar 2026 07:00:13 +0000</pubDate>
-      <sparkle:version>23</sparkle:version>
-      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
-      <enclosure url="https://github.com/zuriapps/dirishaupdates/releases/download/v1.2.1/Dirisha-1.2.1.zip"
-                 sparkle:edSignature="nduM3l6EF3Xa3AMu7MHQQ5IbClhhMqeZkFTI4wH3GRPllIHGPsHVg2keIqDFZ9aeFNKGRW/lUufhnfdSYKd4Cw=="
-                 length="5234471"
+      <title>Version 1.2.2</title>
+      <pubDate>Wed, 25 Mar 2026 07:34:10 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+      <enclosure url="https://github.com/zuriapps/dirishaupdates/releases/download/v1.2.2/Dirisha-1.2.2.zip"
+                 sparkle:edSignature="BPM/YGPUVJATTRyr+xvmSF0zRmgk/ZN3gMXzkofCvH74bpY5lqj2ESkeuWmvweX5521qKh6bO+tuufe9UWp/Ag=="
+                 length="5226356"
                  type="application/octet-stream"/>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h3>What's New in Version 1.2.1</h3>
+        <h3>What's New in Version 1.2.2</h3>
         <ul>
           <li>Performance improvements and bug fixes</li>
         </ul>
