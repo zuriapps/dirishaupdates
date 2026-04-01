@@ -6,19 +6,19 @@
     <description>Updates for Dirisha</description>
     <language>en</language>
     <item>
-      <title>Version 1.2.2</title>
-      <pubDate>Wed, 25 Mar 2026 07:34:10 +0000</pubDate>
-      <sparkle:version>24</sparkle:version>
-      <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
-      <enclosure url="https://github.com/zuriapps/dirishaupdates/releases/download/v1.2.2/Dirisha-1.2.2.zip"
-                 sparkle:edSignature="BPM/YGPUVJATTRyr+xvmSF0zRmgk/ZN3gMXzkofCvH74bpY5lqj2ESkeuWmvweX5521qKh6bO+tuufe9UWp/Ag=="
-                 length="5226356"
+      <title>Version 1.2.3</title>
+      <pubDate>Wed, 01 Apr 2026 06:15:56 +0000</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+      <enclosure url="https://github.com/zuriapps/dirishaupdates/releases/download/v1.2.3/Dirisha-1.2.3.zip"
+                 sparkle:edSignature="BqmQkn5J87/M2at8+Tyg+7FhBuFdVVqYvI1CDtGmWaqvPcHmJDK1UoISwoh2iKM2Gl9ZfsUgk6CnzWQreCVeAg=="
+                 length="5229403"
                  type="application/octet-stream"/>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h3>What's New in Version 1.2.2</h3>
+        <h3>What's New in Version 1.2.3</h3>
         <ul>
-          <li>Performance improvements and bug fixes</li>
+          <li>Fixed an issue where the configuration modal would hide the window for some users.</li>
         </ul>
       ]]></description>
     </item>
